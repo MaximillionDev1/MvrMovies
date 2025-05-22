@@ -2,7 +2,8 @@
 
 > Uma aplicação moderna para explorar filmes em destaque, populares e em breve nos cinemas. Desenvolvido com React, Styled-Components e integração com a API do TMDb.  
 
-![Banner](![image](https://github.com/user-attachments/assets/ae145228-d7a2-4a9c-9382-b6a556794163)
+![Banner](![image![MvrMovies](https://github.com/user-attachments/assets/86e9451a-7999-4d02-af7e-e942677371d4)
+]()
 ) 
 
 ---
