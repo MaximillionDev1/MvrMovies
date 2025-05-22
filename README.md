@@ -1,12 +1,49 @@
-# React + Vite
+# 🎬 MvrMovies  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Uma aplicação moderna para explorar filmes em destaque, populares e em breve nos cinemas. Desenvolvido com React, Styled-Components e integração com a API do TMDb.  
 
-Currently, two official plugins are available:
+![Banner](![image](https://github.com/user-attachments/assets/ae145228-d7a2-4a9c-9382-b6a556794163)
+) 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Sobre o Projeto  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+O **MvrMovies** é uma plataforma web que exibe uma seleção de filmes utilizando a [TMDb API](https://www.themoviedb.org/). O projeto foca na experiência visual do usuário, com:  
+- **Sliders interativos** (via Swiper.js).  
+- **Trailers em modais** (integrado ao YouTube).  
+- **Design responsivo** (mobile-first).  
+- **Dinâmica de cores** (baseada no filme em destaque).  
+
+---
+
+## ✨ Funcionalidades  
+
+### 🎥 Navegação Intuitiva  
+- **Destaques**: Filmes populares, em cartaz e próximas estreias.  
+- **Slider horizontal** com arrasto suave (Swiper.js).  
+- **Modal de trailers** (embed do YouTube).  
+
+### 🎨 Experiência Visual  
+- Background dinâmico (imagem do filme selecionado).  
+- Transições e animações fluidas (Styled-Components).  
+- Layout adaptável (desktop, tablet, mobile).  
+
+### ⚙️ Tecnologias-Chave  
+- **React** (componentes funcionais + hooks).  
+- **API TMDb** (axios para requisições).  
+
+---
+
+## 🛠️ Tecnologias  
+
+| Ferramenta          | Descrição                               |  
+|---------------------|-----------------------------------------|  
+| **React**           | Biblioteca front-end.                   |  
+| **Styled-Components** | CSS-in-JS para estilização.            |  
+| **Swiper.js**       | Sliders interativos.                    |  
+| **Axios**           | Requisições HTTP à API.                 |  
+| **React Icons**     | Ícones personalizados.                  |  
+
+---
+
